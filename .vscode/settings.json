@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "optional": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "cstdint": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "compare": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    }
+}
